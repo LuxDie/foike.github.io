@@ -5,9 +5,7 @@ ftr: ftr/contacto.html
 nav: nav/contacto.html
 ---
 
-<section id="email">
-
-# Correo electrónico
+# <a name="email"></a>Correo electrónico
 
 Usamos una [lista de correo](https://lists.riseup.net/www/info/foike)
 para contactarnos.  Está moderada, y es el medio más directo para
@@ -17,11 +15,7 @@ La dirección es *colectivo⊚foike.org*.
 
 {% include nav-top.html %}
 
-</section>
-
-<section id="chat">
-
-# Conversación
+# <a name="chat"></a>Conversación
 
 Algunos miembros del colectivo mantienen presencia en diversas redes
 de <acronym title="Internet Relay Chat">IRC</acronym> como 
@@ -33,26 +27,16 @@ width="516" height="400" id="freenode"></iframe>
 
 {% include nav-top.html %}
 
-</section>
-
-<section id="twitter">
-
-# Twitter
+# <a name="twitter"></a>Twitter
 
 Si usas Twitter, podés seguir [@arbolab](https://twitter.com/arbolab).
 Sólo la usamos para anuncios.
 
 {% include nav-top.html %}
 
-</section>
-
-<section id="social">
-
-# Otras formas de contactarnos
+# <a name="social"></a>Otras formas de contactarnos
 
 *No usamos Facebook u otros servicios de redes sociales*
 y ¡no hace falta invitarnos!
 
 {% include nav-top.html %}
-
-</section>
