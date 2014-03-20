@@ -19,10 +19,10 @@ La dirección es *colectivo⊚foike.org*.
 
 Algunos miembros del colectivo mantienen presencia en diversas redes
 de <acronym title="Internet Relay Chat">IRC</acronym> como 
-[PorteGNU](http://webchat.freenode.net?channels=%23PorteGNU&uio=OT10cnVlJjEwPXRydWUmMTE9ODIc6)
+[PorteGNU](http://webchat.freenode.net?channels=%23PorteGNU&amp;uio=OT10cnVlJjEwPXRydWUmMTE9ODIc6)
 en [Freenode](https://irc.freenode.net/).
 
-<iframe src="http://webchat.freenode.net?channels=%23PorteGNU&uio=OT10cnVlJjEwPXRydWUmMTE9ODIc6" width="516" height="400" id="freenode"></iframe>
+<iframe src="http://webchat.freenode.net?channels=%23PorteGNU&amp;uio=OT10cnVlJjEwPXRydWUmMTE9ODIc6" width="516" height="400" id="freenode"></iframe>
 
 {% include nav-top.html %}
 
