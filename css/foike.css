@@ -115,7 +115,7 @@ article, footer {
 }
 
 nav ul {
-    list-style-image: url(img/arbol-icon-16.png);
+    list-style-image: url(/img/arbol-icon.png);
     line-height: 24px;
     font-size: 1.25em;
     font-weight: 600;
@@ -206,7 +206,7 @@ strong {
 	margin-top: 0;
       }
 
-      main footer p a {
+      main footer p.buttons a {
         margin-left: 1em;
         background-color: #225d03;
         border-top-left-radius: 16px;
@@ -221,10 +221,10 @@ strong {
         box-shadow: 2px 3px 3px rgba(0,0,0,0.75);
 	margin-bottom: 1em;
       }
-      main footer p a span {
+      main footer p.buttons a span {
 	color: #0e1e0a;
       }
-      main footer p a:hover, main footer p a:focus {
+      main footer p.buttons a:hover, main footer p.buttons a:focus {
         background-color: #63a020;
         box-shadow: 1px 1px 2px rgba(0,0,0,0.5);
         margin-top: 0.1em;
