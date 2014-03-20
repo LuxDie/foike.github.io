@@ -1,0 +1,22 @@
+{% include head.html %}
+  <body>
+    <main>
+      <header>
+	<hgroup>
+	  <h1><a href="/"><img src="img/arbol-logo.png" alt="árbol"></a></h1>
+	  <h2>colectivo transdisciplinario <span>|</span> hacklab</h2>
+	</hgroup>
+	<nav>
+	  {% include {{page.nav}} %}
+	</nav>
+      </header>
+      <article>
+	{{ content }}
+      </article>
+      {% include main-footer.html %}
+    </main>
+    {% include tail.html %}
+    <!-- Here Be Dragons -->
+    {{ page.script }}
+  </body>
+</html>
