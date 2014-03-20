@@ -1,1 +1,6 @@
-index-0.1.0.md
+---
+layout: index
+title: foike
+ftr: ftr/index.html
+nav: nav/index.html
+---
