@@ -1,7 +1,5 @@
 ---
-layout: default
-ftr: ftr/index.html
-nav: nav/index.html
+layout: none
 ---
 
 foike.github.io
@@ -14,4 +12,4 @@ foike.github.io
 >	Dibujar los pensiamientos como una rama se dibuja sobre el cielo.
 >	-- Roberto Juarroz
 
-![foike](./img/foike-arbol.png)
+[![foike](./img/foike-arbol.png)](http://foike.org/)
