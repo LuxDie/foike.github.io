@@ -4,7 +4,7 @@ destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
-exclude:     []
+exclude:     ['Gemfile', 'Gemfile.lock']
 keep_files:  ['.git','.gitignore', '.gitkeep']
 timezone:    nil
 
