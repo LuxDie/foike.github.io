@@ -4,10 +4,18 @@
       <header>
 	<hgroup>
 	  <h1><a href="/"><img src="img/foike-arbol.png" alt="foike"></a></h1>
-	  <h2>colectivo transdisciplinario</h2>
+	  <h2>
+	    colectivo transdisciplinario
+	    <span>|</span>
+	    <a href="hacklab">hacklab</a>
+	  </h2>
 	</hgroup>
 	<nav>
-	  {% include {{page.nav}} %}
+	  <ul>
+	    <li>Entender el mundo presente</li>
+	    <li>Adquirir las <em>τέχνες</em> para inventar nuestra tecnología</li>
+	    <li>Relám<em>pago en afectivo</em>, ético y estético</li>
+	  </ul>
 	</nav>
       </header>
       <article>
@@ -15,7 +23,7 @@
       </article>
       {% include main-footer.html %}
     </main>
-    {% include tail.html %}
+    {% include ftr/0000-buscamos-lugar.html %}
     <!-- Here Be Dragons -->
     {{ page.script }}
   </body>

@@ -1,12 +1,6 @@
-{% if page.url == '/index.html' %}
-      {% include ftr/index.html %}
-{% elsif page.ftr %}
+{% if page.ftr %}
 	  {% include {{page.ftr}} %}
 {% else %}
-    <footer>
-      <p>
-	    FOOOOOOOOOOOOOOO!
-      </p>
-    </footer>
+	  {% include ftr/0000-buscamos-lugar.html %}
 {% endif %}
 
