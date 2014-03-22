@@ -9,20 +9,24 @@ mente humana, en lo mejor y lo peor. Creemos en la emancipación social
 a través de la cooperación. Por eso queremos brindar a los niveles
 individual y colectivo los instrumentos para enriquecer lo viviente.
 
-*árbol* es una iniciativa del colectivo transdisciplinario
-*foike*. Este nació de la voluntad de integrar las diversas áreas del
-conocimiento y de las prácticas en nuestras propias vidas en relación
-con la tecnología. Nuestra visión de la tecnología se puede resumir en
-*técnica+sociedad*: lo que nace del encuentro entre la técnica y la
-sociedad, adentro, alrededor, y más allá de sus componentes.
+El colectivo *foike* lleva adelante multiples proyectos.  El *hacklab* [árbol](hacklab) es uno de ellos.
 
-Organizamos capacitación tanto para principiantes como para tecnófilos
-(quienes a veces no saben tanto de la alfabetización digital o del
-software libre). Adoptamos una postura crítica y emancipadora de los
-medios sociales y la tecnología. Usamos y promovemos el uso y la
-creación de software libre y de hardware libre.
+# Inspiraciones
 
-## ¿foike.org?
+Nuestros humildes aportes se desarrollan según la [Carta de la
+Transdisciplinariedad](http://ciret-transdisciplinarity.org/chart.php#es).
+
+Compartimos el optimismo caro al inventor R. Buckminster Fuller y sus
+aportes con la *sinergética* y la *ciencia del diseño*.
+
+Entendemos la técnica según la filosofía crítica de Gilbert Simondon y
+su concepto de *individuación*.
+
+Abrazamos la *autopoïesis* de Humberto Maturana y Francisco Varela.
+
+El [árbol](hacklab) apunta al cielo como la *poesía vertical* de Roberto Juarroz.
+
+# ¿foike.org?
 
 La palabra "foike" significa el canelo en *Mapugundun*. Es un árbol
 sagrado para los *Mapuche* (pueblo de la Tierra). Es símbolo de
