@@ -1,0 +1,35 @@
+{% include head.html %}
+  <body>
+    <main>
+      <header>
+	<hgroup>
+	  <h1><a href="/"><img src="img/arbol-logo.png" alt="árbol"></a></h1>
+	  <h2>colectivo transdisciplinario <span>|</span> hacklab</h2>
+	</hgroup>
+      </header>
+      <article class="person">
+        <img src="{{page.avatar}}" alt="{{page.nick}}" class="avatar">
+        <dl>
+          <dt>¿Quién?</dt>
+          <dd class="">
+            <a href="{{page.site}}" rel="nofollow">{{page.person}}</a>
+          </dd>
+          <dt>Sitio Web</dt>
+          <dd class=""><a href="{{page.site}}" rel="nofollow">{{page.site}}</a></dd>
+          <dt>GPG</dt><dd class="" rel="gpg-key">{{page.gpgkey}}</dd>
+          <dt>en GNUnet</dt>
+          <dd class=""><a href="gnunet:{{page.peerid}}">{{page.peerid}}</a></dd>            
+          <dt>en Tox</dt>
+          <dd class=""><a href="tox:{{page.tox}}">{{page.tox}}</a></dd>
+          <dt>en Twister</dt>
+          <dd class="">@{{page.twister}}</dd>
+        </dl>
+	{{ content }}
+      </article>
+      {% include main-footer.html %}
+    </main>
+    {% include tail.html %}
+    <!-- Here Be Dragons -->
+    {{ page.script }}
+  </body>
+</html>
