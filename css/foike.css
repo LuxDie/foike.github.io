@@ -13,7 +13,7 @@
 /**
  * Getting our fonts from Google? Hmmm...
 **/
-@import url(http://fonts.googleapis.com/css?family=Poiret+One|Open+Sans:400,700,600italic);
+/**@import url(http://fonts.googleapis.com/css?family=Poiret+One|Open+Sans:400,700,600italic);**/
 
 html {
     background-color: #e7efc8;
@@ -43,11 +43,21 @@ pre, code {
 code {
     background-color: #0e1e0a;
     color: #e7efc8;
-    padding: 0.5em;
-    margin: 0 1em;
-    width: 80%;
-    display: inline-block;
+    padding: 0.25em;
+    margin: 0 0.5em;
     font-size: 0.87em;
+    overflow: auto;
+}
+pre>code {
+    display: inline-block;
+    margin: 0 1em;
+    padding: 0.5em;
+    width: 80%;
+}
+pre>code:hover {
+    overflow: visible;
+    min-width: 80%;
+    width: auto;
 }
 
 h1 {
