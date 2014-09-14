@@ -113,7 +113,7 @@ maquinaria de vigilancia centralizada de Twitter.
   problemas_.
 
 
-# Tercera étapa -- Identificar la Pi en la red
+# Tercera etapa -- Identificar la Pi en la red
 
   ![Otra Pi todavía suelta](/img/2014-09/twister-pi-ddg.jpg)
 
@@ -161,7 +161,7 @@ maquinaria de vigilancia centralizada de Twitter.
    interesantes, encima de su dirección IP, dirección MAC, y
    fabricante.  Una vez identificada la Pi, se pueden conectar a ella.
 
-# Cuarta étapa -- Instalar los pre-requisitos
+# Cuarta etapa -- Instalar los pre-requisitos
 
   ![Una Pi lista para comer](/img/2014-09/twister-pi-chair.jpg)
 
@@ -185,7 +185,7 @@ maquinaria de vigilancia centralizada de Twitter.
    version de `db` debe ser 4.8 o 5.3, pero no 5.1 (por razón de
    incompatibilidad y instabilidad).
 
-# Quinta étapa -- Compilar Twister
+# Quinta etapa -- Compilar Twister
 
   Vamos a crear un usuario `twister`.
 
@@ -205,7 +205,7 @@ maquinaria de vigilancia centralizada de Twitter.
 
   ![Tess tiene listo su Twister](/img/2014-09/twister-pi-tess.jpg)
 
-# Sexta étapa -- Correr Twister
+# Sexta etapa -- Correr Twister
 
    Twister se usa por el comando `twisterd`:
 
@@ -279,7 +279,7 @@ maquinaria de vigilancia centralizada de Twitter.
         ssh -Nf -L 28332:localhost:28332 pi
         xdg-open http://localhost:28332
 
-# Septima etapa -- ¡Bailamos el twist!
+# Séptima etapa -- ¡Bailamos el twist!
 
   Ahora tienen:
 
