@@ -2,7 +2,7 @@
 layout:   blog
 title:    Twister on Raspberry Pi Workshop
 category: workshop
-tag:      maxigas taller workshop garagelab twister RaspberryPi
+tag:      maxigas taller workshop garagelab twister RaspberryPi twitter
 ftr:	  ftr/0002-simondon.html
 ---
 
@@ -18,6 +18,40 @@ with [maxigas](/with/maxigas.html) to install
 Pi](http://raspberrypi.org/).  Why a _Pi_?  Well, because maxigas
 brought some...
 
+# Why Twister?
+
+  Twister provides a distributed alternative to Twitter.  Twitter
+  invented a great service to share fast bits of information and feel
+  the hum of the Internet.
+
+  But Twitter's proprietary service comes from a single company whose
+  business is to analyze your words and dissect your behavior for the
+  benefit of advertisers.  It reads your so-called "direct messages",
+  and may give them away to unwarranted authorities in your
+  jurisdiction (thanks to abusive anti-terrorist laws, and "gag
+  orders" in their's).  It may be censored by arbitrary authorities
+  hostile to the people.  Moreover, Twitter keeps putting barriers to
+  decentralized participation, working against the spirit of the
+  Internet.  To their credit, they have a good track record against
+  unwarranted access to their--er, your data.
+
+  [![Screenshot of http://twister.net.co/](/img/2014-09/twister-pi-twister.net.co.png)](http://twister.net.co/)
+
+  In contrast, Twister is free software, conceived from the beginning
+  to serve the best interest of its users, not the sole mercantile
+  interest of its founders.  "Direct messages" on Twister really occur
+  between you and your peer, and are encrypted, like any regular
+  message: non-participants cannot read anything.  Moreover, nobody
+  knows your IP address, nor whether you're online or not.  Twister is
+  built on well-known peer-to-peer technologies: the public ledger
+  (_blockchain_) of [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin),
+  and the distribution system of
+  [Bittorrent](https://en.wikipedia.org/wiki/Bittorrent), comprising a
+  DHT and a tracker.  Such a great combination encourages wide
+  participation, and provides fast updates.  It allows a growing
+  community of participants to scale up the network at an
+  infinitesimal fraction of the cost of running the centralized
+  infrastructure of the Twitter surveillance machine.
 
 # Pre-Requisites
 
