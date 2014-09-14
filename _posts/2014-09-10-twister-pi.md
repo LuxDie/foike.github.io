@@ -12,7 +12,7 @@ __Etiquetas__: {{page.tags}}
 
 ![Twister on Raspberry Pi](/img/2014-09/twister-pi-leds.jpg)
 
-El otro día fuimos al [Garage Lab](http://garagelab.com.ar) con
+El otro día fuimos al [Garage Lab](http://garagelab.cc) con
 [maxigas](/con/maxigas.html) para instalar
 [Twister](http://twister.net.co/) en una [Raspberry
 Pi](http://raspberrypi.org/).  ¿Porqué una _Pi_?  Pues, porque maxigas llevó algunas...
