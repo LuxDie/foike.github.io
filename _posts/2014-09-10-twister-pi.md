@@ -24,19 +24,17 @@ un excelente servicio para compartir rápidos cúmulos de información y
 sentir la vibración de Internet.
 
 Pero el servicio proprietario de Twitter viene de una sola empresa
-cuyo negocio es analizar sus palabras y diseccionar su comportamiento
-para beneficio de sus anunciantes. Esta empresa lee en sus tan
-llamados "directos mensajes" (que se suponen privados), y puede
-entregarlos a autoridades que no tienen jurisdicción legal sobre
+cuyo negocio es analizar las palabras y diseccionar el comportamiento
+de sus usuarios para beneficio de sus anunciantes. Esta empresa lee en
+sus tan llamados "mensajes directos" (que se suponen privados), y
+puede entregarlos a autoridades que no tienen jurisdicción legal sobre
 ustedes (gracias a abusivas leyes anti-terroristas, y los "pedidos
 discrecionales o sin permiso de divulgación" en la jurisdicción de
-Twitter).
-
-Puede ser censurado por autoridades hostiles al pueblo. Incluso
-Twitter continúa poniendo barreras contra la participación
-descentralizada, trabajando contra el espíritu de Internet.  Para su
-beneficio ellos tienen un buen registro contra accesos abusivos a
-sus--o sea, a datos suyos.
+Twitter).  El servicio puede ser censurado por autoridades hostiles al
+pueblo. Incluso Twitter continúa poniendo barreras contra la
+participación descentralizada, trabajando contra el espíritu de
+Internet.  Para su beneficio ellos tienen un buen registro contra
+accesos abusivos a sus datos: o sea a los datos de ustedes.
 
 [![Captura de pantalla de la página de Twister](/img/2014-09/twister-pi-twister.net.co.png)](http://twister.net.co/)
 
@@ -44,12 +42,12 @@ En contraste, Twister es Software Libre, concebido desde sus comienzos
 como un servicio para el mejor interés de sus usuarios, no sólo de los
 intereses mercantiles de sus fundadores. Los "mensajes directos" (o
 privados) en Twister realmente suceden entre pares, y están cifrados,
-como cualquier otro de los mensajes comunes: nadie que no sea los que
-participan puede leer nada. Más aún, nadie conoce su dirección de IP,
-ni si están conectados o no. Twister está construido sobre tecnologías
-punto a punto muy bien conocidas: la cadena de bloques pública de
-[Bitcoin](https://es.wikipedia.org/wiki/Bitcoin), y el sistema de
-distribución de
+como cualquiera de los otros de los mensajes comunes: nadie que no sea
+los que participan puede leer nada. Más aún, nadie conoce su dirección
+de IP, ni si están conectados o no. Twister está construido sobre
+tecnologías punto a punto muy bien conocidas: la cadena de bloques
+pública de [Bitcoin](https://es.wikipedia.org/wiki/Bitcoin), y el
+sistema de distribución de
 [Bittorrent](https://es.wikipedia.org/wiki/Bittorrent), incluyendo una
 tabla distribuida de hashs (DHT) y un rastreador.
 
