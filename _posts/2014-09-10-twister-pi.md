@@ -6,6 +6,8 @@ tag:      maxigas taller workshop garagelab twister RaspberryPi
 ftr:	  ftr/0002-simondon.html
 ---
 
+[Read it in English](/taller/twister-pi.html)
+
 __Etiquetas__: {{page.tags}}
 
 ![Twister on Raspberry Pi](/img/2014-09/twister-pi-leds.jpg)
