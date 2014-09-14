@@ -6,7 +6,7 @@ tag:      maxigas taller workshop garagelab twister RaspberryPi
 ftr:	  ftr/0002-simondon.html
 ---
 
-[Read it in English](/workshop/twister-pi.html)
+[Read it in English](/workshop/twister-pi.en.html)
 
 __Etiquetas__: {{page.tags}}
 
