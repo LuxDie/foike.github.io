@@ -15,7 +15,7 @@ tox:
 relationships between community and technology.  He's writing a thesis
 on _Hacklabs & hackerspaces vs. Society and Technology Studies_.
 
-He gave a [Twister on Raspberry Pi workshop](/taller/twister-pi.html)
+He gave a [Twister on Raspberry Pi workshop](/workshop/twister-pi.en.html)
 on September, 8th, 2014, and donated the Pi we're using to develop
 [Dowse](http://dowse.equipment/), and of course, to run Twister (we
 are **@foike**).
