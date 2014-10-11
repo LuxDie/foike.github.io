@@ -251,18 +251,18 @@ maquinaria de vigilancia centralizada de Twitter.
         ### raspberrypi
         ###
         Host pi
-             HostName			192.0.2.123
-             Port			22
-             CheckHostIP		yes
-             ForwardX11			no
-             User			pi
-             IdentityFile		~/.ssh/id_rsa
-             RSAAuthentication		no
-             PasswordAuthentication	no
-             LogLevel			INFO
+             HostName                   192.0.2.123
+             Port                       22
+             CheckHostIP                yes
+             ForwardX11                 no
+             User                       pi
+             IdentityFile               ~/.ssh/id_rsa
+             RSAAuthentication          no
+             PasswordAuthentication     no
+             LogLevel                   INFO
         # Aquí estamos: enviamos el puerto 28332 de la Pi a nuestro localhost
         # Sino, podemos correr: `ssh -Nf -L 28332:localhost:28332 pi` para abrir el tunel
-        #     LocalForward		28332	127.0.0.1:28332
+        #     LocalForward              28332     127.0.0.1:28332
 
 
    Remplazar la dirección IP del `HostName` con la dirección real de

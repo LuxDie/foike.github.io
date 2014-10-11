@@ -241,18 +241,18 @@ brought some...
         ### raspberrypi
         ###
         Host pi
-             HostName			192.0.2.123
-             Port			22
-             CheckHostIP		yes
-             ForwardX11			no
-             User			pi
-             IdentityFile		~/.ssh/id_rsa
-             RSAAuthentication		no
-             PasswordAuthentication	no
-             LogLevel			INFO
+             HostName                   192.0.2.123
+             Port                       22
+             CheckHostIP                yes
+             ForwardX11                 no
+             User                       pi
+             IdentityFile               ~/.ssh/id_rsa
+             RSAAuthentication          no
+             PasswordAuthentication     no
+             LogLevel                   INFO
         # Here we are: sending the port 28332 from the Pi to our localhost
         # Otherwise, running: `ssh -Nf -L 28332:localhost:28332 pi` will open the tunnel
-        #     LocalForward		28332	127.0.0.1:28332
+        #     LocalForward              28332   127.0.0.1:28332
 
    Replace the IP address on the `HostName` line with the actual IP
    address of the Pi.  It would be better to assign a fixed IP address
