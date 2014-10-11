@@ -146,12 +146,12 @@ maquinaria de vigilancia centralizada de Twitter.
 
    Desde hace años, `nmap` es la herramienta preferida tanto de los
    administradores de sistemas como de los hackers ofensivos.  Usando
-   nmap es bastante fácil de indentificar la Raspberry Pi en su red
+   nmap es bastante fácil de identificar la Raspberry Pi en su red
    local.  Se puede simplemente mapear la red entera y `nmap` va a
-   mencionar la _Raspberry Foundation_ como fabricante del aparato
-   que estan buscando.  Teoricamente, `arp-scan` podría hacerlo
-   también, y va a hacerlo en el futuro, pero `nmap` mantiene más
-   actualizada la lista de fabricantes.
+   mencionar la _Raspberry Foundation_ como fabricante del aparato que
+   estan buscando.  Teoricamente, `arp-scan` podría hacerlo también, y
+   va a hacerlo en el futuro, pero `nmap` mantiene más actualizada la
+   lista de fabricantes.
 
    Si la red local es `192.0.2.0/24`:
 
@@ -278,6 +278,13 @@ maquinaria de vigilancia centralizada de Twitter.
         ssh pi
         ssh -Nf -L 28332:localhost:28332 pi
         xdg-open http://localhost:28332
+
+   En mi /laptop/, uso [este
+   script](https://github.com/hellekin37ab0cca28076826b0df)
+   `~/bin/twist` para abrir el tunel:
+
+   {% gist 37ab0cca28076826b0df %}
+
 
 # Séptima etapa -- ¡Bailamos el twist!
 

@@ -268,6 +268,12 @@ brought some...
         ssh -Nf -L 28332:localhost:28332 pi
         xdg-open http://localhost:28332
 
+   On my laptop, I use [this
+   script](https://github.com/hellekin37ab0cca28076826b0df)
+   `~/bin/twist` to open the tunnel:
+
+   {% gist 37ab0cca28076826b0df %}
+
 # Seventh step -- ¡Let's do the twist!
 
   Now you have:
