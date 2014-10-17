@@ -66,7 +66,7 @@ maquinaria de vigilancia centralizada de Twitter.
   - una computadora con un procesador ARM, como una Raspberry Pi, una
     Olimex A10, etc.
   - una tarjeta SD (de 8GB o 16GB, y de Clase 10)
-  - electricidad y conección a Internet
+  - electricidad y conexión a Internet
   - una computadora portatil conectada
   - si ya saben como hacerlo, una media hora; para desarrollar el
     taller hay que contar entre 2 y 4 horas, dependiendo de la
@@ -244,7 +244,7 @@ maquinaria de vigilancia centralizada de Twitter.
    ¡Por suerte existen tuneles SSH! Pasando el puerto de la interfaz
    local de Twister en la computadora de control, podemos acceder al
    Twister "localmente", y además con cifrado. Para lograr una
-   conección transparente al Twister desde nuestra máquina propia,
+   conexión transparente al Twister desde nuestra máquina propia,
    vamos a configurar SSH adecuadamente.
 
         ### ~/.ssh/config
