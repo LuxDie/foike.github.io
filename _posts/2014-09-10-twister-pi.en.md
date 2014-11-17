@@ -333,6 +333,13 @@ brought some...
 
 ## Twister compilation fails
 
+   - You may be running out of memory.  Try adding some _swap_ memory
+     before calling `make` again:
+
+           sudo dd if=/dev/zero of=/home/pi/swapfile bs=1M count=1024
+           sudo mkswap ~pi/swapfile
+           sudo swapon ~pi/swapfile
+
    - Refer to the [compilation documentation](http://twister.net.co/?page_id=29)
 
    ![The final product running at home](/img/2014-09/twister-pi-final.jpg)
