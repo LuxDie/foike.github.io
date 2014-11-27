@@ -348,7 +348,7 @@ maquinaria de vigilancia centralizada de Twitter.
    - Es posible que falte memoria. Probar `make` de nuevo después de
      haber agregado una espacio de intercambio _swap_:
 
-           sudo dd if=/dev/zero of=/home/pi/swapfile bs=1M count=1024
+           sudo fallocate --length 1GiB /home/pi/swapfile
            sudo mkswap ~pi/swapfile
            sudo swapon ~pi/swapfile
 
