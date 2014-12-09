@@ -195,8 +195,8 @@ maquinaria de vigilancia centralizada de Twitter.
       git clone https://github.com/miguelfreitas/twister-html ~/.twister/html
       git clone https://github.com/miguelfreitas/twister-core
       cd twister-core
-     ./bootstrap.sh && ./configure --disable-sse2 && make V=1
-
+     ./bootstrap.sh --disable-sse2 && make V=1
+     
    Teclan control y la llave 'd' para salir del usuario 'twister' y
    volver a la cuenta de __root__, para correr `make install` desde la
    carpeta `/home/twister/twister-core`.

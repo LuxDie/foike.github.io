@@ -189,7 +189,7 @@ brought some...
       git clone https://github.com/miguelfreitas/twister-html ~/.twister/html
       git clone https://github.com/miguelfreitas/twister-core
       cd twister-core
-     ./bootstrap.sh && ./configure --disable-sse2 && make V=1
+     ./bootstrap.sh --disable-sse2 && make V=1
 
   Hit Control and the 'd' key to exit from the 'twister' user and come
   back to the __root__ account, and run `make install` from the
