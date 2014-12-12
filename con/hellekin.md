@@ -1,14 +1,14 @@
 ---
 layout:  person
 title:   hellekin
-person:  hellekin
+impresperson:  hellekin
 nick:    hellekin
-site:    https://hellekin.cepheide.org/
-avatar:  https://hellekin.cepheide.org/img/cepheide.svg
+site:    https://tilde.center/~how/
+avatar:  https://tilde.center/~how/img/cepheide.svg
 gpgkey:  "0x386361391CA24A13"
 peerid:
 twister: eisos
-tox:     22C3033E85FB1CBFDF6D2AAA48700C50FE7C938D877FE41633A39B27B15CFD556C43D0AD5FA5
+tox:     262D57C7569D9EA1CC64F96AC9CBC4DECBFF958578EBC868E39EC9154515D1522C775822A5AD
 ---
 
 [hellekin]({{page.site}}) es co-fundador del Colectivo Foike.  _Generalista_ convencido, 
