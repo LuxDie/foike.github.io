@@ -1,7 +1,7 @@
 ---
 layout:  person
 title:   hellekin
-impresperson:  hellekin
+person:  hellekin
 nick:    hellekin
 site:    https://tilde.center/~how/
 avatar:  https://tilde.center/~how/img/cepheide.svg
