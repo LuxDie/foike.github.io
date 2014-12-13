@@ -11,8 +11,9 @@ twister: efecto99
 tox:     
 ---
 
-[efecto99]({{page.site}}) es co-fundadora del Colectivo Foike.  _Tarotista_, estudiante 
-de _Derecho Humano_, y aficionada de seguridad informática, ella contribuye en la 
-administración de la comunidad de [Saravea](https://saravea.net/).
+[efecto99]({{page.site}}) es co-fundadora del Colectivo Foike.
+_Tarotista_, estudiante de _Derechos Humanos_, y aficionada a la
+seguridad informática, ella contribuye en la administración de la
+comunidad de [Saravea](https://saravea.net/).
 
 Vive en Buenos Aires.
