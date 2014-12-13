@@ -11,18 +11,30 @@
         <img src="{{page.avatar}}" alt="{{page.nick}}" class="avatar">
         <dl>
           <dt>¿Quién?</dt>
+	  {% if page.site %}
+	  {% if page.person %}
           <dd class="">
             <a href="{{page.site}}" rel="nofollow">{{page.person}}</a>
           </dd>
+	  {% endif %}
           <dt>Sitio Web</dt>
           <dd class=""><a href="{{page.site}}" rel="nofollow">{{page.site}}</a></dd>
+	  {% endif %}
+	  {% if page.gpgkey %}
           <dt>GPG</dt><dd class="" rel="gpg-key">{{page.gpgkey}}</dd>
+	  {% endif %}
+	  {% if page.peerid %}
           <dt>en GNUnet</dt>
           <dd class=""><a href="gnunet:{{page.peerid}}">{{page.peerid}}</a></dd>            
+	  {% endif %}
+	  {% if page.tox %}
           <dt>en Tox</dt>
           <dd class=""><a href="tox:{{page.tox}}">{{page.tox}}</a></dd>
-          <dt>en Twister</dt>
+          {% endif %}
+	  {% if page.twister %}
+	  <dt>en Twister</dt>
           <dd class="">@{{page.twister}}</dd>
+	  {% endif %}
         </dl>
 	{{ content }}
       </article>

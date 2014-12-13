@@ -159,6 +159,10 @@ header ul a strong {
   color:#222;
 }
 
+article.person p {
+    clear: left;
+}
+
 section {
   width:500px;
   float:right;
