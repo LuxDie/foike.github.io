@@ -187,6 +187,10 @@ footer {
   bottom:50px;
 }
 
+div.footnotes {
+    margin-top: 7em;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
