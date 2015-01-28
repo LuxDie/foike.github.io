@@ -22,6 +22,9 @@ markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md
 textile_ext:   textile
 
+kramdown:
+  input: GFM
+
 excerpt_separator: "\n\n"
 
 host:        0.0.0.0
