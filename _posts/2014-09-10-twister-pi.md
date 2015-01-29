@@ -1,21 +1,18 @@
 ---
 layout:   blog
 title:    Taller de Twister en Raspberry Pi
+author:   hellekin y efecto99
 category: taller
-tag:      maxigas taller workshop garagelab twister RaspberryPi twitter
+tag:      maxigas, taller, workshop, garagelab, twister, RaspberryPi, twitter
 ftr:	  ftr/0002-simondon.html
 ---
 
-[Read it in English](/workshop/twister-pi.en.html)
-
-__Etiquetas__: {{page.tags}}
+El otro día fuimos al [Garage Lab](http://garagelab.cc) con [maxigas](/con/maxigas.html) para instalar [Twister](http://twister.net.co/) en una [Raspberry Pi](http://raspberrypi.org/).  ¿Porqué una _Pi_?  Pues, porque maxigas llevó algunas...
 
 ![Twister on Raspberry Pi](/img/2014-09/twister-pi-leds.jpg)
 
-El otro día fuimos al [Garage Lab](http://garagelab.cc) con
-[maxigas](/con/maxigas.html) para instalar
-[Twister](http://twister.net.co/) en una [Raspberry
-Pi](http://raspberrypi.org/).  ¿Porqué una _Pi_?  Pues, porque maxigas llevó algunas...
+
+[Read it in English](/workshop/twister-pi.en.html)
 
 # ¿Porqué Twister?
 
