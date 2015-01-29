@@ -9,7 +9,9 @@ mente humana, en lo mejor y lo peor. Creemos en la emancipación social
 a través de la cooperación. Por eso queremos brindar a los niveles
 individual y colectivo los instrumentos para enriquecer lo viviente.
 
-El colectivo *foike* lleva adelante multiples proyectos.  El *hacklab* [árbol](hacklab) es uno de ellos.
+El colectivo *foike* lleva adelante [multiples proyectos](/-/).
+El *hacklab* [árbol](hacklab) es uno de ellos.
+
 
 # Inspiraciones
 
