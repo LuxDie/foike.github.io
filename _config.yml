@@ -4,7 +4,7 @@ destination: ./_site
 plugins:     ./_plugins
 layouts:     ./_layouts
 include:     ['.htaccess']
-exclude:     ['Gemfile', 'Gemfile.lock']
+exclude:     ['Gemfile', 'Gemfile.lock', 'README.md']
 keep_files:  ['.git','.gitignore', '.gitkeep']
 timezone:    nil
 
@@ -16,7 +16,8 @@ highlighter: pygments
 relative_permalinks: true
 
 permalink:     none
-paginate_path: 'page:num'
+paginate:      7
+paginate_path: '/-/page:num'
 
 markdown:      kramdown
 markdown_ext:  markdown,mkd,mkdn,md
@@ -25,7 +26,7 @@ textile_ext:   textile
 kramdown:
   input: GFM
 
-excerpt_separator: "\n\n"
+excerpt_separator: "\n\n\n"
 
 host:        0.0.0.0
 port:        4000
